@@ -1,1 +1,2 @@
-đây là commit đầu tiên
+đây là commit đầu tiên tôi đang sửa ở đây
+đây là dòng tôi thêm
